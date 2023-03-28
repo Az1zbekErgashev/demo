@@ -1,0 +1,32 @@
+@media (max-width:425px) {
+    .text-carousel{
+        position: relative;
+        top: 10px !important;
+    }
+    .text-carousel h5{
+        font-size: 15px !important;
+    }
+    .text-carousel p{
+        font-size: 12px !important;
+    }
+    .header-div .header-div-katalog {
+        height: 80px;
+      }
+      .body-div{
+        height: 3200px !important;
+      }
+     .header-div-card .card {
+        max-width: 350px ;
+        margin: 0 auto;
+      }
+      .body-div-card .card{
+        max-width: 350px;
+        margin: 10px 0;
+      }
+      .body-div-card2 .card {
+        position: relative;
+        left: 50% !important;
+        transform: translateX(-50%) !important;
+      }
+}
+  

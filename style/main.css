@@ -1,0 +1,54 @@
+body .nav-item .nav-link {
+  color: white;
+  font-weight: 500;
+}
+body .text-carousel {
+  position: relative;
+  top: -100px;
+}
+body .text-carousel h5 {
+  font-size: 60px;
+  letter-spacing: 2px;
+}
+body .carousel-item img {
+  filter: brightness(40%);
+}
+body .header-div .header-div-card {
+  margin: 10px 0;
+}
+body .header-div .header-div-card .card {
+  margin: 0 auto;
+  width: 450px !important;
+}
+body .header-div .header-div-katalog {
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+body .body-div {
+  height: 1250px;
+  background-color: whitesmoke;
+}
+body .body-div .body-div-text {
+  display: flex;
+  align-items: center;
+  height: 100px;
+}
+body .body-div .body-div-acordin {
+  height: 600px;
+}
+body .body-div .body-div-card .card {
+  width: 400px !important;
+}
+body .body-div-card2 .card {
+  height: 300px;
+  margin-top: 20px;
+}
+body .body-div-card2 .card img {
+  height: 170px !important;
+}
+body .body-div-card2 .card:last-child {
+  margin-top: 20px;
+  height: 125px;
+}/*# sourceMappingURL=main.css.map */
